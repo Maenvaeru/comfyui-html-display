@@ -1,0 +1,3 @@
+# MVU-HTML-Display Requirements
+# This node suite uses standard Python libraries (sys, logging, typing, html).
+# No additional pip packages are required to run this node.
